@@ -72,7 +72,7 @@ export default function Home() {
   }
 
   return (
-    <div className="flex min-h-screen items-center justify-center font-sans overflow-hidden
+    <div className="flex h-screen items-center justify-center font-sans overflow-hidden
       bg-[radial-gradient(ellipse_at_40%_40%,#dd706c_0%,#db4c47_25%,#a82526_100%)]">
 
       <div className='valentine-container w-full flex flex-col items-center justify-center'>
