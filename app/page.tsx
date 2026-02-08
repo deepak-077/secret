@@ -27,7 +27,7 @@ export default function Home() {
     if (yesPressed) {
     
     confetti({
-    particleCount: 120,
+    particleCount: 400,
     spread: 80,
     origin: { y: 0.6 },
   });
