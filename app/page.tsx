@@ -81,7 +81,7 @@ export default function Home() {
         {showHey && (
           <div className='text-center animate-in fade-in zoom-in duration-700'>
             <div className='text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.5)] md:text-[50px] text-[40px]' >
-              <strong>Hey hello</strong>...
+              <strong>Hey</strong>...
               <br></br>
               <strong>Prachi </strong>
             </div>
