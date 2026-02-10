@@ -83,7 +83,7 @@ export default function Home() {
             <div className='text-white drop-shadow-[0_0_15px_rgba(255,255,255,0.5)] md:text-[50px] text-[40px]' >
               <strong>Hey</strong>...
               <br></br>
-              <strong>Prachi </strong>
+              <strong>Suman </strong>
             </div>
           </div>
         )}
