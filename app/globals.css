@@ -2,12 +2,12 @@
 
 @keyframes floatUpSmooth {
   0% {
-    /* Move further down so they are completely hidden at start */
+    
     transform: translateY(125vh) scale(var(--scale, 0.7)) rotate(var(--rot, 0deg));
     opacity: 0;
   }
   1% {
-    opacity: 1; /* Fade in immediately once movement starts */
+    opacity: 1; 
   }
   90% {
     opacity: 1;
@@ -22,7 +22,7 @@
   position: absolute;
   animation-name: floatUpSmooth;
   animation-timing-function: linear;
-  /* Remove var(--delay) to make them all start at once */
+  
   animation-duration: var(--duration, 5.5s);
   animation-fill-mode: forwards;
   will-change: transform;
